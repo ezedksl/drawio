@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T19:45:58.617Z" agent="5.0 (X11)" etag="bvz2FkT9iSfY4zwDZ5DP" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T19:50:03.010Z" agent="5.0 (X11)" etag="HADlcPThXj3EJibfvDXo" version="15.3.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="gitflow">
     <mxGraphModel dx="2347" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="FiQ2vP1WOjYI8Nb7Zz3A-235" value="GM" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=0;horizontalStack=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" width="1150" height="500" as="geometry" />
+          <mxGeometry x="10" width="2310" height="1720" as="geometry" />
         </mxCell>
-        <mxCell id="FiQ2vP1WOjYI8Nb7Zz3A-239" value="FRONTEND" style="swimlane;startSize=60;horizontal=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;fontSize=19;" vertex="1" parent="FiQ2vP1WOjYI8Nb7Zz3A-235">
-          <mxGeometry width="1150" height="120" as="geometry" />
+        <mxCell id="FiQ2vP1WOjYI8Nb7Zz3A-239" value="FRONTEND" style="swimlane;startSize=60;horizontal=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;fontSize=19;spacingTop=44;spacing=222;spacingBottom=20;spacingLeft=0;" vertex="1" parent="FiQ2vP1WOjYI8Nb7Zz3A-235">
+          <mxGeometry width="2310" height="830" as="geometry" />
         </mxCell>
         <mxCell id="FiQ2vP1WOjYI8Nb7Zz3A-236" value="BACKEND" style="swimlane;startSize=60;horizontal=0;fillColor=#2BAD4A;strokeColor=#6CC902;fontColor=#ffffff;rounded=0;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;fontSize=19;" vertex="1" parent="FiQ2vP1WOjYI8Nb7Zz3A-235">
-          <mxGeometry y="120" width="1150" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="FiQ2vP1WOjYI8Nb7Zz3A-237" value="Lane 2" style="swimlane;startSize=60;horizontal=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;rounded=0;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;fontSize=19;" vertex="1" parent="FiQ2vP1WOjYI8Nb7Zz3A-235">
-          <mxGeometry y="440" width="1150" height="60" as="geometry" />
+          <mxGeometry y="830" width="2310" height="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
